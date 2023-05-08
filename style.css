@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.jumbotron {
+    color: white;
+    background-color: rgb(58, 20, 164);
+    padding: 0 10%;
+}
+
+.jumbotron > div > div > a {
+    margin: 0 10px 10px 0;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+.dropdown-toggle {
+    font-weight: bold;
+}
+
+nav > i {
+    margin: 0 10px;
+    padding: 12px;
+    background-color: rgb(198, 198, 198);
+    border-radius: 50%;
+}
+
+#avatar1 {
+    margin-right: 10px;
+    border-radius: 50%;
+    width: 40px;
+}
